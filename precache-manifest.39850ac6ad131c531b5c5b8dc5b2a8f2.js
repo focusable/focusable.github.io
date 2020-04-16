@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "c5882cb7bea2b54ec79d",
-    "url": "/static/js/app.41a66bb8.chunk.js"
+    "revision": "1b8787e62038295b9e4b",
+    "url": "/static/js/app.153af952.chunk.js"
   },
   {
     "revision": "dc6d7c46a725d6866bcd",
@@ -28,15 +28,19 @@ self.__precacheManifest = [
     "url": "/static/media/G4.87bcb7b2.mp3"
   },
   {
-    "revision": "d0c694b562b2208635f250762cd7fc79",
-    "url": "/serve.json"
-  },
-  {
     "revision": "48c7ed4e7da9792af288a60d7242d615",
     "url": "/expo-service-worker.js"
   },
   {
-    "revision": "f4e24a64f410220b4e3bd3035884e205",
+    "revision": "d0c694b562b2208635f250762cd7fc79",
+    "url": "/serve.json"
+  },
+  {
+    "revision": "1590a5cf9f5468399bd8b09caef45b2b",
+    "url": "/favicon.ico"
+  },
+  {
+    "revision": "6e1d258a73e21ebdcd0ec2a438ed03d5",
     "url": "/index.html"
   },
   {
