@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "3e0558f701c690f43751",
-    "url": "/static/js/app.72dbc6f0.chunk.js"
+    "revision": "c5882cb7bea2b54ec79d",
+    "url": "/static/js/app.41a66bb8.chunk.js"
   },
   {
     "revision": "dc6d7c46a725d6866bcd",
     "url": "/static/js/runtime~app.44ddfa1e.js"
   },
   {
-    "revision": "e83367fcce73e4761d61",
-    "url": "/static/js/2.3fdd8fd4.chunk.js"
+    "revision": "b9b0adc20f71b5758a72",
+    "url": "/static/js/2.1f43676e.chunk.js"
   },
   {
     "revision": "e231eca012dd091ae5c23173236b1883",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/expo-service-worker.js"
   },
   {
-    "revision": "9cb2015d03ec3ed9ccc98a2c3a36a3ff",
+    "revision": "f4e24a64f410220b4e3bd3035884e205",
     "url": "/index.html"
   },
   {
